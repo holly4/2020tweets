@@ -1,5 +1,928 @@
 [
   {
+    "Name": "Doug LaMalfa",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 1,
+        "ScreenName": "@RepLaMalfa",
+        "Avatar": "http://pbs.twimg.com/profile_images/532998035416969216/vtCyv9Ze_400x400.jpeg",
+        "Bio": "Representing California's First District including Siskiyou, Shasta, Tehama, Butte, Glenn, Modoc, Lassen, Plumas, Sierra, Nevada and Placer Counties",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Doug LaMalfa CA01",
+    "District": 1,
+    "HashTag": "CA01",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Doug_LaMalfa",
+    "Details": "@RepLaMalfa: 0 tweets\r\n"
+  },
+  {
+    "Name": "Audrey Denney",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@audrey4congress",
+        "Avatar": "http://pbs.twimg.com/profile_images/1100127913188384768/56hl720N_400x400.png",
+        "Bio": "Agricultural Educator. Candidate for U.S. House of Representatives in #CA01. Accepting no corporate PAC money. #AudreyDenney2020",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Audrey Denney CA01",
+    "District": 1,
+    "HashTag": "CA01",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Audrey_Denney",
+    "Details": "@audrey4congress: 0 tweets\r\n"
+  },
+  {
+    "Name": "Jared Huffman",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@JaredHuffman",
+        "Avatar": "http://pbs.twimg.com/profile_images/742907056298954752/D6NEjYJO_400x400.jpg",
+        "Bio": "Congressman for CA's 2nd Dist.  Posts on this page authorized by Huffman for Congress.  For my official House of Representatives feed please follow @RepHuffman",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepHuffman",
+        "Avatar": "http://pbs.twimg.com/profile_images/651435990100279296/5lQBk2Ut_400x400.png",
+        "Bio": "Congressman for California's North Coast. On Facebook at https://t.co/a4QfL2Jw5p. Listen to my podcast #OffTheCuff at https://t.co/OqRZbIo5kM",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Jared Huffman CA02",
+    "District": 2,
+    "HashTag": "CA02",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Jared_Huffman",
+    "Details": "@JaredHuffman: 0 tweets\r\n@RepHuffman: 0 tweets\r\n"
+  },
+  {
+    "Name": "Dale Mensing",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@MensingDale",
+        "Avatar": "http://pbs.twimg.com/profile_images/1023427961926516737/MnVIT-vK_400x400.jpg",
+        "Bio": "",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Dale Mensing CA02",
+    "District": 2,
+    "HashTag": "CA02",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Dale_Mensing",
+    "Details": "@MensingDale: 0 tweets\r\n"
+  },
+  {
+    "Name": "John Garamendi",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 1,
+        "ScreenName": "@RepGaramendi",
+        "Avatar": "http://pbs.twimg.com/profile_images/867754658919579648/_yzg8aMR_400x400.jpg",
+        "Bio": "Congressman for California's 3rd Congressional District, former Lieutenant Governor, Insurance Commissioner, Deputy Interior Secretary, state legislator",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "John Garamendi CA03",
+    "District": 3,
+    "HashTag": "CA03",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/John_Garamendi",
+    "Details": "@RepGaramendi: 0 tweets\r\n"
+  },
+  {
+    "Name": "Tamika Hamilton",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@tamikaghamilton",
+        "Avatar": "http://pbs.twimg.com/profile_images/1171051291641966592/Aqac_opd_400x400.jpg",
+        "Bio": "Lake, Glenn, Sutter, Colusa, Solano, Yuba, Yolo, W Sac (Use of Military, rank, & photo doesn’t imply DOD or USAF endorsement)",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Tamika Hamilton CA03",
+    "District": 3,
+    "HashTag": "CA03",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Tamika_Hamilton",
+    "Details": "@tamikaghamilton: 0 tweets\r\n"
+  },
+  {
+    "Name": "Tom McClintock",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@tommcclintock",
+        "Avatar": "http://pbs.twimg.com/profile_images/190659042/tom_twitter_400x400.jpg",
+        "Bio": "Congressman Tom McClintock represents #CA04 in the United States Congress.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepMcClintock",
+        "Avatar": "http://pbs.twimg.com/profile_images/416902006/McClintockphoto1_400x400.jpg",
+        "Bio": "United States Representative, 4th District of California",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Tom McClintock CA04",
+    "District": 4,
+    "HashTag": "CA04",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Tom_McClintock",
+    "Details": "@tommcclintock: 0 tweets\r\n@RepMcClintock: 0 tweets\r\n"
+  },
+  {
+    "Name": "Brynne Kennedy",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@BrynneSpeak",
+        "Avatar": "http://pbs.twimg.com/profile_images/1185744118133088256/pZoy9LOX_400x400.jpg",
+        "Bio": "Official campaign account for Brynne Kennedy for Congress in #CA04. Call me Brynne, and let's get stuff done together.",
+        "Tweets": 0
+      },
+      {
+        "Type": 2,
+        "ScreenName": "@KennedyBrynne",
+        "Avatar": "http://pbs.twimg.com/profile_images/1200528655795073024/QoDTpuiH_400x400.jpg",
+        "Bio": "Personal account for Brynne Kennedy. Author of Flat, Fluid and Fast. Founder of Topia. Ex-national gymnast. Running for Congress #CA04. @yale & @lbs.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Brynne Kennedy CA04",
+    "District": 4,
+    "HashTag": "CA04",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Brynne_Kennedy",
+    "Details": "@BrynneSpeak: 0 tweets\r\n@KennedyBrynne: 0 tweets\r\n"
+  },
+  {
+    "Name": "Mike Thompson",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@Mike_CA05",
+        "Avatar": "http://pbs.twimg.com/profile_images/642049940479315968/fwqwrFVK_400x400.jpg",
+        "Bio": "U.S. Congressman, California's 5th Congressional District",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepThompson",
+        "Avatar": "http://pbs.twimg.com/profile_images/1127943228727209986/JzbYTuQJ_400x400.jpg",
+        "Bio": "Rep. Mike Thompson represents California's 5th Congressional District and chairs the House Gun Violence Prevention Task Force.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Mike Thompson CA05",
+    "District": 5,
+    "HashTag": "CA05",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Mike_Thompson_(California)",
+    "Details": "@Mike_CA05: 0 tweets\r\n@RepThompson: 0 tweets\r\n"
+  },
+  {
+    "Name": "Scott Giblin",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [],
+    "NameHashTag": "Scott Giblin CA05",
+    "District": 5,
+    "HashTag": "CA05",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Scott_Giblin",
+    "Details": "No Twitter"
+  },
+  {
+    "Name": "Doris Matsui",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@Matsui4Congress",
+        "Avatar": "http://pbs.twimg.com/profile_images/986330750793469952/nJ0EBjWX_400x400.jpg",
+        "Bio": "Doris Matsui represents the Sacramento region in Congress, and is running for re-election in the 6th District, which includes Sacramento & West Sacramento.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@DorisMatsui",
+        "Avatar": "http://pbs.twimg.com/profile_images/644563582294757376/UJMwQIXY_400x400.jpg",
+        "Bio": "Representing California's 6th Congressional District. Member of the @EnergyCommerce Committee.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Doris Matsui CA06",
+    "District": 6,
+    "HashTag": "CA06",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Doris_Matsui",
+    "Details": "@Matsui4Congress: 0 tweets\r\n@DorisMatsui: 0 tweets\r\n"
+  },
+  {
+    "Name": "Chris Bish",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@BishForCongress",
+        "Avatar": "http://pbs.twimg.com/profile_images/1197342725722406912/b7cS5TnK_400x400.jpg",
+        "Bio": "Chris Bish is a Constitutional Conservative Candidate for California's 6th Congressional District. #CA06 #GOP",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Chris Bish CA06",
+    "District": 6,
+    "HashTag": "CA06",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Chris_Bish",
+    "Details": "@BishForCongress: 0 tweets\r\n"
+  },
+  {
+    "Name": "Ami Bera",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@BeraForCongress",
+        "Avatar": "http://pbs.twimg.com/profile_images/1049495426791919619/VjrmqGMm_400x400.jpg",
+        "Bio": "Husband, father, doctor and teacher representing #CA07 in Congress. Updates by Ami & Team Bera",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepBera",
+        "Avatar": "http://pbs.twimg.com/profile_images/722533785481248769/LJz8Qkxj_400x400.jpg",
+        "Bio": "Father, husband, doctor. Proudly representing Sacramento County in the House of Representatives #CA07. Chair @HouseForeign Asia, the Pacific, & Nonproliferation",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Ami Bera CA07",
+    "District": 7,
+    "HashTag": "CA07",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Ami_Bera",
+    "Details": "@BeraForCongress: 0 tweets\r\n@RepBera: 0 tweets\r\n"
+  },
+  {
+    "Name": "Buzz Patterson",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@buzzpatterson",
+        "Avatar": "http://pbs.twimg.com/profile_images/1010330853593923585/bRsCuPqq_400x400.jpg",
+        "Bio": "Republican Candidate, CA-7; USAF Pilot, Lt. Col & Commander; White House Aide & Former Carrier of the Nuclear 🏈; Author; Husband, Father, Oath Keeper.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Buzz Patterson CA07",
+    "District": 7,
+    "HashTag": "CA07",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Buzz_Patterson",
+    "Details": "@buzzpatterson: 0 tweets\r\n"
+  },
+  {
+    "Name": "Jerry McNerney",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@jerrymcnerney",
+        "Avatar": "http://pbs.twimg.com/profile_images/1099234640/JMsmilesq_400x400.jpg",
+        "Bio": "I studied math & have a PhD in Differential Geometry and a background in wind energy technology. Elected to Congress in 2006, proud to serve CD-09 of California",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepMcNerney",
+        "Avatar": "http://pbs.twimg.com/profile_images/453602967006896128/sMQhAO6K_400x400.jpeg",
+        "Bio": "Proudly representing California's 9th Congressional District. Learn more about my work in Congress at http://t.co/MbFWXH7J",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Jerry McNerney CA09",
+    "District": 9,
+    "HashTag": "CA09",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Jerry_McNerney",
+    "Details": "@jerrymcnerney: 0 tweets\r\n@RepMcNerney: 0 tweets\r\n"
+  },
+  {
+    "Name": "Antonio Amador",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [],
+    "NameHashTag": "Antonio Amador CA09",
+    "District": 9,
+    "HashTag": "CA09",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Antonio_Amador",
+    "Details": "No Twitter"
+  },
+  {
+    "Name": "Josh Harder",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@JoshHarder",
+        "Avatar": "http://pbs.twimg.com/profile_images/1237468077442453504/YA2g9VYN_400x400.jpg",
+        "Bio": "Turlock Native. Teacher at Modesto Junior College. Businessman. Proud to represent the people of CA-10 in Congress.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepJoshHarder",
+        "Avatar": "http://pbs.twimg.com/profile_images/1126542509767823360/JsNdEfWy_400x400.png",
+        "Bio": "Turlock guy. Modesto High grad. Pam’s husband. Foster dog dad. Proudly serving the Central Valley in Congress.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Josh Harder CA10",
+    "District": 10,
+    "HashTag": "CA10",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Josh_Harder",
+    "Details": "@JoshHarder: 0 tweets\r\n@RepJoshHarder: 0 tweets\r\n"
+  },
+  {
+    "Name": "Ted Howze",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@ted_howze",
+        "Avatar": "http://pbs.twimg.com/profile_images/1125901480576208897/rD4ux8HZ_400x400.jpg",
+        "Bio": "Husband, father, veterinarian & 2020 #GOP #Republican Candidate for Congress in #CA10. Proud to be #NativeAmerican @ChoctawNationOK",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Ted Howze CA10",
+    "District": 10,
+    "HashTag": "CA10",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Ted_Howze",
+    "Details": "@ted_howze: 0 tweets\r\n"
+  },
+  {
+    "Name": "Mark DeSaulnier",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@MarkDeSaulnier",
+        "Avatar": "http://pbs.twimg.com/profile_images/1123004721780805638/EIyP5Lwq_400x400.jpg",
+        "Bio": "Father. Avid Runner. Former Small Business Owner.\nHonored to represent California's 11th Congressional District.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepDeSaulnier",
+        "Avatar": "http://pbs.twimg.com/profile_images/979126569070485505/TChO0ixS_400x400.jpg",
+        "Bio": "Representing CA-11. Member of @transportdems @EdLaborCmte @oversightdems @RulesDemocrats. Dad, amateur historian, marathon runner & former small business owner.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Mark DeSaulnier CA11",
+    "District": 11,
+    "HashTag": "CA11",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Mark_DeSaulnier",
+    "Details": "@MarkDeSaulnier: 0 tweets\r\n@RepDeSaulnier: 0 tweets\r\n"
+  },
+  {
+    "Name": "Nisha Sharma",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [],
+    "NameHashTag": "Nisha Sharma CA11",
+    "District": 11,
+    "HashTag": "CA11",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Nisha_Sharma",
+    "Details": "No Twitter"
+  },
+  {
+    "Name": "Nancy Pelosi",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@TeamPelosi",
+        "Avatar": "http://pbs.twimg.com/profile_images/978983398231351296/i_dVcde2_400x400.jpg",
+        "Bio": "Organize, mobilize and fight #ForThePeople. This is Nancy's political account. Tweets from Nancy are signed -NP.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@SpeakerPelosi",
+        "Avatar": "http://pbs.twimg.com/profile_images/1114294290375688193/P9mcJNGb_400x400.png",
+        "Bio": "Speaker of the House, focused on strengthening America's middle class and creating jobs; mother, grandmother, dark chocolate connoisseur.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Nancy Pelosi CA12",
+    "District": 12,
+    "HashTag": "CA12",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Nancy_Pelosi",
+    "Details": "@TeamPelosi: 0 tweets\r\n@SpeakerPelosi: 0 tweets\r\n"
+  },
+  {
+    "Name": "Shahid Buttar",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@ShahidForChange",
+        "Avatar": "http://pbs.twimg.com/profile_images/1236328116471005185/gA085s71_400x400.jpg",
+        "Bio": "Electing democratic socialist Shahid Buttar (@sheeyahshee) in #CA12. Team tweets. Replacing Nancy Pelosi on 11/3/20. Support: https://t.co/QPLJpzIlfC",
+        "Tweets": 0
+      },
+      {
+        "Type": 2,
+        "ScreenName": "@Sheeyahshee",
+        "Avatar": "http://pbs.twimg.com/profile_images/2870602832/32f5343a61f821b3a1bcfce499ab1157_400x400.jpeg",
+        "Bio": "Immigrant, constitutional lawyer, DJ, MC & poet replacing Pelosi in 2020 in CA-12 @ShahidForChange #ShahidVsPelosi",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Shahid Buttar CA12",
+    "District": 12,
+    "HashTag": "CA12",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Shahid_Buttar",
+    "Details": "@ShahidForChange: 0 tweets\r\n@Sheeyahshee: 0 tweets\r\n"
+  },
+  {
+    "Name": "Barbara Lee",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@BLeeForCongress",
+        "Avatar": "http://pbs.twimg.com/profile_images/1013817864376078336/P0SiinUN_400x400.jpg",
+        "Bio": "Thanks to voters, Barbara Lee represents CA's new 13th Congressional District. This is her campaign account.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepBarbaraLee",
+        "Avatar": "http://pbs.twimg.com/profile_images/831276027674558470/o7pTafU9_400x400.jpg",
+        "Bio": "Progressive Democrat representing the #EastBay. Promoting justice for all, peace, & human rights. @ProChoiceCaucus Co-Chair. Proud member of the #resistance.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Barbara Lee CA13",
+    "District": 13,
+    "HashTag": "CA13",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Barbara_Lee_(California)",
+    "Details": "@BLeeForCongress: 0 tweets\r\n@RepBarbaraLee: 0 tweets\r\n"
+  },
+  {
+    "Name": "Nikka Piterman",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@NikkaGOP",
+        "Avatar": "http://pbs.twimg.com/profile_images/1229312178244571136/T6E6NLN0_400x400.jpg",
+        "Bio": "Republican Candidate for CA-13 | Born Again Christian | Conservationist | Cal ‘16 #MakeAmericaStronger #SpaceForce #PuertoRico51 #MetricSystem #TaxCuts",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Nikka Piterman CA13",
+    "District": 13,
+    "HashTag": "CA13",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Nikka_Piterman",
+    "Details": "@NikkaGOP: 0 tweets\r\n"
+  },
+  {
+    "Name": "Jackie Speier",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@JackieSpeier",
+        "Avatar": "http://pbs.twimg.com/profile_images/746677268097826816/Y4CCMqk0_400x400.jpg",
+        "Bio": "I proudly represent San Francisco and San Mateo counties, and served 18 years in the CA State Legislature before being sworn into Congress in April 2008.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepSpeier",
+        "Avatar": "http://pbs.twimg.com/profile_images/1216755169163202560/7Y1JaC3s_400x400.jpg",
+        "Bio": "Fearless fighter for women’s equality, LGBTQ rights & the disenfranchised. Proud mom of 2 kids & puppy Emma, wife & Rep for CA14, America's economic powerhouse!",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Jackie Speier CA14",
+    "District": 14,
+    "HashTag": "CA14",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Jackie_Speier",
+    "Details": "@JackieSpeier: 0 tweets\r\n@RepSpeier: 0 tweets\r\n"
+  },
+  {
+    "Name": "Ran Petel",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@petel4congress",
+        "Avatar": "http://pbs.twimg.com/profile_images/1218337545848639489/BJCiTh5W_400x400.jpg",
+        "Bio": "Republican Candidate for Congress in CA14 | Press: Info@petel4congress.com",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Ran Petel CA14",
+    "District": 14,
+    "HashTag": "CA14",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Ran_Petel",
+    "Details": "@petel4congress: 0 tweets\r\n"
+  },
+  {
+    "Name": "Eric Swalwell",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@ericswalwell",
+        "Avatar": "http://pbs.twimg.com/profile_images/1092197753151782914/1sk6ojXx_400x400.jpg",
+        "Bio": "Dad to Nelson & Cricket. Husband. CA Congressman. Pre-order my book Endgame now (link below) 👇🏼",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepSwalwell",
+        "Avatar": "http://pbs.twimg.com/profile_images/1083558899029032961/tweWUB8Y_400x400.jpg",
+        "Bio": "Husband & Papa to Nelson/Cricket. CA Congressman @HouseJudiciary/@HouseIntel. Promise of America: if you work hard, you do better & dream bigger #FreedomToDream",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Eric Swalwell CA15",
+    "District": 15,
+    "HashTag": "CA15",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Eric_Swalwell",
+    "Details": "@ericswalwell: 0 tweets\r\n@RepSwalwell: 0 tweets\r\n"
+  },
+  {
+    "Name": "Alison Hayden",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@Alison4Congress",
+        "Avatar": "http://pbs.twimg.com/profile_images/1231207107308900353/BVQvDDmW_400x400.jpg",
+        "Bio": "Special Ed Teacher Running for CA-15 vs. incumbent Eric Swalwell #FamilyFirst #SafeRobustCommunities #CutTaxesRegs https://t.co/U4orxekrBM…",
+        "Tweets": 0
+      },
+      {
+        "Type": 2,
+        "ScreenName": "@Elled26",
+        "Avatar": "http://pbs.twimg.com/profile_images/755831409558843392/DeAa6oKC_400x400.jpg",
+        "Bio": "Deliriously Delighted Deplorable Trumpette Candidate CA CD15. Hope in the USA now that Donald J Trump is our 45th POTUS. God bless, heal and unite our land!",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Alison Hayden CA15",
+    "District": 15,
+    "HashTag": "CA15",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Alison_Hayden",
+    "Details": "@Alison4Congress: 0 tweets\r\n@Elled26: 0 tweets\r\n"
+  },
+  {
+    "Name": "Jim Costa",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 1,
+        "ScreenName": "@RepJimCosta",
+        "Avatar": "http://pbs.twimg.com/profile_images/1123359212749242370/Defn1erP_400x400.png",
+        "Bio": "Costa represents CA's 16th District. He serves on the Agriculture, Natural Resources, & Foreign Affairs Committees. This account is for official use only.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Jim Costa CA16",
+    "District": 16,
+    "HashTag": "CA16",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Jim_Costa",
+    "Details": "@RepJimCosta: 0 tweets\r\n"
+  },
+  {
+    "Name": "Kevin Cookingham",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@KevCookingham",
+        "Avatar": "http://pbs.twimg.com/profile_images/1221223600490864641/TckoVlk4_400x400.jpg",
+        "Bio": "Republican running for the California 16th District congressional seat. It’s time to get Costa out.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Kevin Cookingham CA16",
+    "District": 16,
+    "HashTag": "CA16",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Kevin_Cookingham",
+    "Details": "@KevCookingham: 0 tweets\r\n"
+  },
+  {
+    "Name": "Ro Khanna",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@RoKhanna",
+        "Avatar": "http://pbs.twimg.com/profile_images/530907007746703360/-mIRE-wq_400x400.jpeg",
+        "Bio": "Bridging national divide w/ a 21st century economic vision for new jobs & more pay in places left behind. No PAC $$. Pro-growth progressive. Obama Commerce alum",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepRoKhanna",
+        "Avatar": "http://pbs.twimg.com/profile_images/1236008748130406400/6RLY4LrX_400x400.jpg",
+        "Bio": "Rep. Silicon Valley's #CA17. Creating jobs in areas left behind & tax credits for working class. Restraint in foreign policy. No PAC $. he/him",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Ro Khanna CA17",
+    "District": 17,
+    "HashTag": "CA17",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Ro_Khanna",
+    "Details": "@RoKhanna: 0 tweets\r\n@RepRoKhanna: 0 tweets\r\n"
+  },
+  {
+    "Name": "Ritesh Tandon",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@tandon4congress",
+        "Avatar": "http://pbs.twimg.com/profile_images/1199873807143428097/PEJ3CeU1_400x400.jpg",
+        "Bio": "Republican Candidate, US House of Representative I would be honored to serve the people of Sunnyvale, Cupertino, Santa Clara, Milpitas, Newark, Fremont, Newark.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Ritesh Tandon CA17",
+    "District": 17,
+    "HashTag": "CA17",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Ritesh_Tandon",
+    "Details": "@tandon4congress: 0 tweets\r\n"
+  },
+  {
+    "Name": "Jimmy Panetta",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@JimmyPanetta",
+        "Avatar": "http://pbs.twimg.com/profile_images/743159717082497024/6ePAXGri_400x400.jpg",
+        "Bio": "I am incredibly honored to have been elected to represent this area in Congress, and to continue serving our community and country.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepJimmyPanetta",
+        "Avatar": "http://pbs.twimg.com/profile_images/827208718618132481/Z6uQa-l__400x400.jpg",
+        "Bio": "I'm honored to serve as the Congressman for California's Central Coast (CA-20) in the U.S. House of Representatives.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Jimmy Panetta CA20",
+    "District": 20,
+    "HashTag": "CA20",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Jimmy_Panetta",
+    "Details": "@JimmyPanetta: 0 tweets\r\n@RepJimmyPanetta: 0 tweets\r\n"
+  },
+  {
+    "Name": "Jeff Gorman",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@Gormancongress",
+        "Avatar": "http://pbs.twimg.com/profile_images/1190009351513268224/e0r1DlB5_400x400.jpg",
+        "Bio": "Republican Candidate for CA20, Chair of the Monterey County Republican Party, Businessman.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Jeff Gorman CA20",
+    "District": 20,
+    "HashTag": "CA20",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Jeff_Gorman_(California)",
+    "Details": "@Gormancongress: 0 tweets\r\n"
+  },
+  {
+    "Name": "TJ Cox",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@TJCoxCongress",
+        "Avatar": "http://pbs.twimg.com/profile_images/1001324678206509057/rjcvJIgH_400x400.jpg",
+        "Bio": "Proud father, engineer and small businessman dedicated to growing our Valley communities. Proudly serving #CA21 in the House of Representatives.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepTjCox",
+        "Avatar": "http://pbs.twimg.com/profile_images/1154061352287162368/geh4UyEV_400x400.png",
+        "Bio": "Engineer, dad, small businessman. Serving with @HouseAgDems to grow opportunity in #CA21. Chair, Subcommittee on Oversight and Investigations, @NRDems.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "TJ Cox CA21",
+    "District": 21,
+    "HashTag": "CA21",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/TJ_Cox",
+    "Details": "@TJCoxCongress: 0 tweets\r\n@RepTjCox: 0 tweets\r\n"
+  },
+  {
+    "Name": "David G. Valadao",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@dgvaladao",
+        "Avatar": "http://pbs.twimg.com/profile_images/739225625123131392/YCraqNSi_400x400.jpg",
+        "Bio": "Husband, father, and dairy farmer.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "David G. Valadao CA21",
+    "District": 21,
+    "HashTag": "CA21",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/David_Valadao",
+    "Details": "@dgvaladao: 0 tweets\r\n"
+  },
+  {
+    "Name": "Devin Nunes",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@Team_Nunes",
+        "Avatar": "http://pbs.twimg.com/profile_images/1108844902731956225/X0TvO_Sg_400x400.jpg",
+        "Bio": "RTs do not equal endorsement. This is my campaign account. Link to my official website here: https://t.co/gAouvK9BjR",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepDevinNunes",
+        "Avatar": "http://pbs.twimg.com/profile_images/2870867832/a4da73613b727575cb724e57500bee06_400x400.jpeg",
+        "Bio": "",
+        "Tweets": 0
+      },
+      {
+        "Type": 2,
+        "ScreenName": "@DevinNunes",
+        "Avatar": "http://pbs.twimg.com/profile_images/738510058183593985/whpmEX7p_400x400.jpg",
+        "Bio": "RTs do not equal endorsement.  This is my personal Twitter account.  If you have questions about my official activities please visit my website.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Devin Nunes CA22",
+    "District": 22,
+    "HashTag": "CA22",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Devin_Nunes",
+    "Details": "@Team_Nunes: 0 tweets\r\n@RepDevinNunes: 0 tweets\r\n@DevinNunes: 0 tweets\r\n"
+  },
+  {
+    "Name": "Phil Arballo",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@PhilArballo2020",
+        "Avatar": "http://pbs.twimg.com/profile_images/1113120397472391168/RINllpe8_400x400.jpg",
+        "Bio": "Father, Husband, Latino, Small Business Owner, Proud Democrat. Candidate for Congress against Devin Nunes in CA-22",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Phil Arballo CA22",
+    "District": 22,
+    "HashTag": "CA22",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Phil_Arballo",
+    "Details": "@PhilArballo2020: 0 tweets\r\n"
+  },
+  {
+    "Name": "Kevin McCarthy",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@kevinomccarthy",
+        "Avatar": "http://pbs.twimg.com/profile_images/1128031568642101250/ozPZMZp2_400x400.png",
+        "Bio": "House Republican Leader & Representative of California's 23rd District",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@GOPLeader",
+        "Avatar": "http://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_400x400.png",
+        "Bio": "Republican Leader and Representative of California's 23rd District in the House of Representatives.\nhttps://t.co/ZqWsqD6L0T",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Kevin McCarthy CA23",
+    "District": 23,
+    "HashTag": "CA23",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Kevin_McCarthy_(California)",
+    "Details": "@kevinomccarthy: 0 tweets\r\n@GOPLeader: 0 tweets\r\n"
+  },
+  {
+    "Name": "Kim Mangone",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@kimmangone",
+        "Avatar": "http://pbs.twimg.com/profile_images/1148318853958492160/PJL0Llf6_400x400.jpg",
+        "Bio": "Single Mom, USAF Vet 🇺🇸, Systems Engineer, Proud Democrat. Candidate running for US Congress in CA23 against Kevin McCarthy.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Kim Mangone CA23",
+    "District": 23,
+    "HashTag": "CA23",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Kim_Mangone",
+    "Details": "@kimmangone: 0 tweets\r\n"
+  },
+  {
     "Name": "Salud Carbajal",
     "Party": "",
     "Incumbent": false,
@@ -45,5 +968,948 @@
     "TotalTweets": 0,
     "BallotpediaUrl": "https://ballotpedia.org/Andy_Caldwell",
     "Details": "@CaldwellCA24: 0 tweets\r\n"
+  },
+  {
+    "Name": "Christy Smith",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@ChristyforCA25",
+        "Avatar": "http://pbs.twimg.com/profile_images/1053803008767610880/-2BPbvDc_400x400.jpg",
+        "Bio": "California State Assemblywoman for 38th District. Candidate for Congress in CA-25. she/her/hers/mom",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Christy Smith CA25",
+    "District": 25,
+    "HashTag": "CA25",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Christy_Smith",
+    "Details": "@ChristyforCA25: 0 tweets\r\n"
+  },
+  {
+    "Name": "Mike Garcia",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@mikegarcia2020",
+        "Avatar": "http://pbs.twimg.com/profile_images/1156950517089615873/KOpfV3Y2_400x400.jpg",
+        "Bio": "Candidate for Congress in #CA25.\nFormer U.S. Navy fighter pilot, businessman, & conservative. Husband to Rebecca and proud dad of two boys.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Mike Garcia CA25",
+    "District": 25,
+    "HashTag": "CA25",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Mike_Garcia",
+    "Details": "@mikegarcia2020: 0 tweets\r\n"
+  },
+  {
+    "Name": "Julia Brownley",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@JuliaBrownley",
+        "Avatar": "http://pbs.twimg.com/profile_images/978098454881710085/K7lG6cPM_400x400.jpg",
+        "Bio": "Mother, School Board Member, State Assemblywoman, Member of Congress proudly serving Ventura County",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepBrownley",
+        "Avatar": "http://pbs.twimg.com/profile_images/1096422273437831168/b9lioe1R_400x400.png",
+        "Bio": "Serving #CA26 & fighting for Ventura County. Chairwoman of @VetAffairsDems Health Subcommittee & #WomenVetsTaskForce. Member of @TransportDems & @ClimateCrisis.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Julia Brownley CA26",
+    "District": 26,
+    "HashTag": "CA26",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Julia_Brownley",
+    "Details": "@JuliaBrownley: 0 tweets\r\n@RepBrownley: 0 tweets\r\n"
+  },
+  {
+    "Name": "Ronda Baldwin-Kennedy",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@Ronda4Congress",
+        "Avatar": "http://pbs.twimg.com/profile_images/1151692010874638336/f-arhLPo_400x400.jpg",
+        "Bio": "I am a mother of 6 (including 7 y/o triplets) an attorney & Dean at @Ahulawschool I'm running 4 Congress in #CA26 https://t.co/sfT0Vy1tRY",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Ronda Baldwin-Kennedy CA26",
+    "District": 26,
+    "HashTag": "CA26",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Ronda_Baldwin-Kennedy",
+    "Details": "@Ronda4Congress: 0 tweets\r\n"
+  },
+  {
+    "Name": "Tony Cárdenas",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 1,
+        "ScreenName": "@RepCardenas",
+        "Avatar": "http://pbs.twimg.com/profile_images/983729841848668160/iADDNPRh_400x400.jpg",
+        "Bio": "Proud to represent California's 29th District - the San Fernando Valley - in The People’s House. Member of @EnergyCommerce",
+        "Tweets": 0
+      },
+      {
+        "Type": 2,
+        "ScreenName": "@Tcardenas",
+        "Avatar": "http://pbs.twimg.com/profile_images/1211847327788322816/_Ig-cZht_400x400.jpg",
+        "Bio": "My passion drives my intention to bring quality services and solutions to the people I represent. (Unofficial Twitter account)",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Tony Cárdenas CA29",
+    "District": 29,
+    "HashTag": "CA29",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Tony_Cárdenas",
+    "Details": "@RepCardenas: 0 tweets\r\n@Tcardenas: 0 tweets\r\n"
+  },
+  {
+    "Name": "Angelica Dueñas",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@Angelica4CA",
+        "Avatar": "http://pbs.twimg.com/profile_images/1231970411975364608/XXF5aNRs_400x400.jpg",
+        "Bio": "Mom. Wife. Activist. Working Class. *2018 Endorsed by Our Revolution *2016 Bernie Delegate. #CA29 #SFV #M4A #GreenNewDeal https://t.co/tCmF9cwK9A",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Angelica Dueñas CA29",
+    "District": 29,
+    "HashTag": "CA29",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Angelica_Dueñas",
+    "Details": "@Angelica4CA: 0 tweets\r\n"
+  },
+  {
+    "Name": "Brad Sherman",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 1,
+        "ScreenName": "@BradSherman",
+        "Avatar": "http://pbs.twimg.com/profile_images/938782994591916032/BQlooFe5_400x400.jpg",
+        "Bio": "Proudly serving California's San Fernando Valley in the U.S. Congress. Admission: Some tweets are prepared by my staff on my behalf. RTs are not an endorsement.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Brad Sherman CA30",
+    "District": 30,
+    "HashTag": "CA30",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Brad_Sherman",
+    "Details": "@BradSherman: 0 tweets\r\n"
+  },
+  {
+    "Name": "Mark Reed",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@MarkReed1776",
+        "Avatar": "http://pbs.twimg.com/profile_images/1237593306407690245/NCvdHmbP_400x400.jpg",
+        "Bio": "Mark Reed, the Republican candidate challenging incumbent Congressman Brad Sherman in the 30th Congressional District of California 2020",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Mark Reed CA30",
+    "District": 30,
+    "HashTag": "CA30",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Mark_Reed_(California)",
+    "Details": "@MarkReed1776: 0 tweets\r\n"
+  },
+  {
+    "Name": "Pete Aguilar",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@AguilarCampaign",
+        "Avatar": "http://pbs.twimg.com/profile_images/1039981999086350337/XjQzyGQ-_400x400.jpg",
+        "Bio": "Dad. Husband. 4th generation Californian. Congressman. Fan of Dodgers, craft beer and working across the aisle to get things done.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepPeteAguilar",
+        "Avatar": "http://pbs.twimg.com/profile_images/978674008735584256/vlRYXhmR_400x400.jpg",
+        "Bio": "Pete Aguilar represents CA’s 31st Congressional District. A former mayor, Rep. Aguilar is committed to strengthening the Inland Empire’s middle class.",
+        "Tweets": 0
+      },
+      {
+        "Type": 2,
+        "ScreenName": "@aguilarpete",
+        "Avatar": "http://pbs.twimg.com/profile_images/572165680369307648/ySYw8-pk_400x400.jpeg",
+        "Bio": "Dad. Husband. Former pothole filling Mayor and elected Representative of California's 31st district. Living the dream. Personal account",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Pete Aguilar CA31",
+    "District": 31,
+    "HashTag": "CA31",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Pete_Aguilar",
+    "Details": "@AguilarCampaign: 0 tweets\r\n@RepPeteAguilar: 0 tweets\r\n@aguilarpete: 0 tweets\r\n"
+  },
+  {
+    "Name": "Agnes Gibboney",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@agnes_gibboney",
+        "Avatar": "http://pbs.twimg.com/profile_images/1210832698249342976/2VfsT85j_400x400.jpg",
+        "Bio": "I am an Angel Mom (a mother whose child was killed by an illegal alien), an American patriot, a conservative Republican and I'm running for Congress.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Agnes Gibboney CA31",
+    "District": 31,
+    "HashTag": "CA31",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Agnes_Gibboney",
+    "Details": "@agnes_gibboney: 0 tweets\r\n"
+  },
+  {
+    "Name": "Grace Napolitano",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 1,
+        "ScreenName": "@gracenapolitano",
+        "Avatar": "http://pbs.twimg.com/profile_images/978299365545652231/kTKikH7M_400x400.jpg",
+        "Bio": "Congresswoman from California's 32nd Congressional District in the US House of Representatives",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Grace Napolitano CA32",
+    "District": 32,
+    "HashTag": "CA32",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Grace_Napolitano",
+    "Details": "@gracenapolitano: 0 tweets\r\n"
+  },
+  {
+    "Name": "Joshua Scott",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@joshuascottca32",
+        "Avatar": "http://pbs.twimg.com/profile_images/1096165164049620992/1cDHnFfP_400x400.png",
+        "Bio": "Candidate for U.S. Congress in California’s 32nd district #CA32 Proud American patriot 🇺🇸 Friend of Israel 🇮🇱 #NoApologies.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Joshua Scott CA32",
+    "District": 32,
+    "HashTag": "CA32",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Joshua_Scott",
+    "Details": "@joshuascottca32: 0 tweets\r\n"
+  },
+  {
+    "Name": "Ted Lieu",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@tedlieu",
+        "Avatar": "http://pbs.twimg.com/profile_images/537271043937673217/3O1qePzP_400x400.jpeg",
+        "Bio": "Husband of Betty, the love of my life. Father of two great kids. USAF veteran. Member of Congress. In that order. Also, I don't take orders from Vladimir Putin.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepTedLieu",
+        "Avatar": "http://pbs.twimg.com/profile_images/978664130457423880/3R-vL8Xp_400x400.jpg",
+        "Bio": "Official Twitter account for the Office of Rep @TedLieu, serving #CA33 in the U.S. House of Representatives • https://t.co/cSZYg2KK1X • https://t.co/oA7bA0Exjk",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Ted Lieu CA33",
+    "District": 33,
+    "HashTag": "CA33",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Ted_Lieu",
+    "Details": "@tedlieu: 0 tweets\r\n@RepTedLieu: 0 tweets\r\n"
+  },
+  {
+    "Name": "James P. Bradley",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [],
+    "NameHashTag": "James P. Bradley CA33",
+    "District": 33,
+    "HashTag": "CA33",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/James_P._Bradley_(California)",
+    "Details": "No Twitter"
+  },
+  {
+    "Name": "Jimmy Gomez",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@JimmyGomezCA",
+        "Avatar": "http://pbs.twimg.com/profile_images/1174257323163996160/Ssx_GE_q_400x400.jpg",
+        "Bio": "Congressman for Los Angeles. Working-class progressive. Personal Account. Lifelong @Dodgers fan! Shelter 🐶 parent. FB & IG: @JimmyGomezCA #CA34",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepJimmyGomez",
+        "Avatar": "http://pbs.twimg.com/profile_images/978147788667027456/Sshj14W0_400x400.jpg",
+        "Bio": "Official account for U.S. Congressman Jimmy Gomez (CA-34, Los Angeles). Cmtees: @WaysMeansCmte @OversightDems Find us on FB: https://t.co/1pRH7kHn00",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Jimmy Gomez CA34",
+    "District": 34,
+    "HashTag": "CA34",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Jimmy_Gomez",
+    "Details": "@JimmyGomezCA: 0 tweets\r\n@RepJimmyGomez: 0 tweets\r\n"
+  },
+  {
+    "Name": "David Kim",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@davidkim2020",
+        "Avatar": "http://pbs.twimg.com/profile_images/1164059130912362497/0wKqBTVm_400x400.jpg",
+        "Bio": "Vote 11/3: Congress Runoff #CA34 LA. Music/Immig/WC Attorney, Neighbor. Council Board #UBI #Medicareforall #EndHomelessness #ReverseClimateChange\nN🚫corporate💰",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "David Kim CA34",
+    "District": 34,
+    "HashTag": "CA34",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/David_Kim_(California)",
+    "Details": "@davidkim2020: 0 tweets\r\n"
+  },
+  {
+    "Name": "Norma Torres",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@Norma4Congress",
+        "Avatar": "http://pbs.twimg.com/profile_images/982770154617450497/klFRCDSG_400x400.jpg",
+        "Bio": "Congresswoman representing the people of Bloomington, Chino, Fontana, Montclair, Ontario, Pomona and Rialto. Advocate for working families in the Inland Empire.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@NormaJTorres",
+        "Avatar": "http://pbs.twimg.com/profile_images/1188685045550256129/kfPM4HaG_400x400.jpg",
+        "Bio": "U.S. Representative for California's 35th District. @AppropsDems @RulesDemocrats",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Norma Torres CA35",
+    "District": 35,
+    "HashTag": "CA35",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Norma_Torres",
+    "Details": "@Norma4Congress: 0 tweets\r\n@NormaJTorres: 0 tweets\r\n"
+  },
+  {
+    "Name": "Mike Cargile",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@CargileFor",
+        "Avatar": "http://pbs.twimg.com/profile_images/1211528829245607936/QTRgGO3n_400x400.jpg",
+        "Bio": "Mike Cargile for U.S. Representative, California's 35th District, #CA35 #Life #2A #KAG #OathKeeper #TheFamilyMan #SmileitsCargile #CommonSenseCandidate",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Mike Cargile CA35",
+    "District": 35,
+    "HashTag": "CA35",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Mike_Cargile",
+    "Details": "@CargileFor: 0 tweets\r\n"
+  },
+  {
+    "Name": "Raul Ruiz",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@Dr_RaulRuiz",
+        "Avatar": "http://pbs.twimg.com/profile_images/616739061265338368/VKWp4XyM_400x400.jpg",
+        "Bio": "Dr. Ruiz is an emergency physician and member of Congress proudly from Coachella, CA. Tweets by Dr. Ruiz signed -RR.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepRaulRuizMD",
+        "Avatar": "http://pbs.twimg.com/profile_images/3109371960/abcc78e171a1bc5232a05b221ac6d6a3_400x400.jpeg",
+        "Bio": "Emergency medicine physician and public servant. Proudly serving California's 36th Congressional District.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Raul Ruiz CA36",
+    "District": 36,
+    "HashTag": "CA36",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Raul_Ruiz",
+    "Details": "@Dr_RaulRuiz: 0 tweets\r\n@RepRaulRuizMD: 0 tweets\r\n"
+  },
+  {
+    "Name": "Erin Cruz",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@realerincruz",
+        "Avatar": "http://pbs.twimg.com/profile_images/1230682767639248896/-MmqiF9X_400x400.jpg",
+        "Bio": "CONGRESS CANDIDATE CA36 https://t.co/SFGs08nWzS | OFFICIAL #RecallTheAG https://t.co/UuUKrxNieo | BOOKS https://t.co/IWyH4nqZdu |CEO @RANACTIONFUND|",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Erin Cruz CA36",
+    "District": 36,
+    "HashTag": "CA36",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Erin_Cruz",
+    "Details": "@realerincruz: 0 tweets\r\n"
+  },
+  {
+    "Name": "Linda Sánchez",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@LindaTSanchez",
+        "Avatar": "http://pbs.twimg.com/profile_images/1223715811069693952/OsDdI3Z6_400x400.jpg",
+        "Bio": "Mom. Latina. Congresswoman. Fmr. Vice Chair of @HouseDemocrats. Standing up for #CA38 families & working to elect the next generation of leaders to Congress.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepLindaSanchez",
+        "Avatar": "http://pbs.twimg.com/profile_images/1217584335643140096/qia6rAN2_400x400.jpg",
+        "Bio": "I work for #CA38. 🇺🇸 Fmr. Vice Chair @HouseDemocrats & @HispanicCaucus Chair. Serve on the @WaysMeansCmte. Die-hard @Dodgers Fan. ⚾️",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Linda Sánchez CA38",
+    "District": 38,
+    "HashTag": "CA38",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Linda_Sánchez",
+    "Details": "@LindaTSanchez: 0 tweets\r\n@RepLindaSanchez: 0 tweets\r\n"
+  },
+  {
+    "Name": "Michael Tolar",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@MichaelTolar6",
+        "Avatar": "http://pbs.twimg.com/profile_images/1207075750651645954/NXIVeHF-_400x400.jpg",
+        "Bio": "I’m running for the United States Congress in California’s 38th district  #ProgressiveDemocrat https://t.co/tKJg3Wfzsq",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Michael Tolar CA38",
+    "District": 38,
+    "HashTag": "CA38",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Michael_Tolar",
+    "Details": "@MichaelTolar6: 0 tweets\r\n"
+  },
+  {
+    "Name": "Gil Cisneros",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@GilCisnerosCA",
+        "Avatar": "http://pbs.twimg.com/profile_images/1027248468312506368/Vih5VDji_400x400.jpg",
+        "Bio": "Navy Veteran, Dad, @GWtweets Grad. Lucky Guy. Education & Veterans Advocate at the Cisneros Foundation. And now U.S. Representative for CA-39. Here to serve.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepGilCisneros",
+        "Avatar": "http://pbs.twimg.com/profile_images/1096232620663468032/PWHZFWd4_400x400.png",
+        "Bio": "Navy Veteran and Representative for California's 39th District. Member of @VetAffairsDems, @HASCDemocrats, @HispanicCaucus, @CAPAC. Ready to serve.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Gil Cisneros CA39",
+    "District": 39,
+    "HashTag": "CA39",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Gil_Cisneros",
+    "Details": "@GilCisnerosCA: 0 tweets\r\n@RepGilCisneros: 0 tweets\r\n"
+  },
+  {
+    "Name": "Young Kim",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@YoungKimCA",
+        "Avatar": "http://pbs.twimg.com/profile_images/986852150499094528/a45vXw29_400x400.jpg",
+        "Bio": "Mom, wife, small business owner, former California State Assemblywoman, and candidate for #CA39",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Young Kim CA39",
+    "District": 39,
+    "HashTag": "CA39",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Young_Kim_(California)",
+    "Details": "@YoungKimCA: 0 tweets\r\n"
+  },
+  {
+    "Name": "Mark Takano",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@MarkTakano",
+        "Avatar": "http://pbs.twimg.com/profile_images/1237205284294180865/j5Lqnik-_400x400.jpg",
+        "Bio": "Born and raised in Riverside. Proud to serve the families of the Inland Empire in the United States House of Representatives. #CA41",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepMarkTakano",
+        "Avatar": "http://pbs.twimg.com/profile_images/978257751825682432/xuo-Enea_400x400.jpg",
+        "Bio": "Proudly Representing California's 41st District. Chairman: @VetAffairsDems. Member: @EdLaborCmte, @USProgressives, @LGBTEqCaucus, and @CAPAC.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Mark Takano CA41",
+    "District": 41,
+    "HashTag": "CA41",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Mark_Takano",
+    "Details": "@MarkTakano: 0 tweets\r\n@RepMarkTakano: 0 tweets\r\n"
+  },
+  {
+    "Name": "Aja Smith",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@AjaforCongress",
+        "Avatar": "http://pbs.twimg.com/profile_images/1062534872206467073/ad93WVwI_400x400.jpg",
+        "Bio": "Congressional Candidate for District 41 Ca! Military Vet/GOP\nDelegate for CAGOP",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Aja Smith CA41",
+    "District": 41,
+    "HashTag": "CA41",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Aja_Smith",
+    "Details": "@AjaforCongress: 0 tweets\r\n"
+  },
+  {
+    "Name": "Katie Porter",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@katieporteroc",
+        "Avatar": "http://pbs.twimg.com/profile_images/1197334460087312385/zVsGRZ4Q_400x400.jpg",
+        "Bio": "Irvine mom & Consumer Protection Attorney. Representative for #CA45 in Congress. #PorterSupporter IG: KatiePorterOC",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepKatiePorter",
+        "Avatar": "http://pbs.twimg.com/profile_images/1138172373390307329/vfzeyP7D_400x400.png",
+        "Bio": "Representative for #CA45. Minivan-driving single mom, law professor, & consumer protection attorney. Working families before special interests. Amateur surfer.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Katie Porter CA45",
+    "District": 45,
+    "HashTag": "CA45",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Katie_Porter",
+    "Details": "@katieporteroc: 0 tweets\r\n@RepKatiePorter: 0 tweets\r\n"
+  },
+  {
+    "Name": "Greg Raths",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@GregRaths",
+        "Avatar": "http://pbs.twimg.com/profile_images/1241608611920351232/0ck2MciV_400x400.jpg",
+        "Bio": "Candidate for California’s 45th Congressional District🇺🇸Colonel U.S. Marine Corps (Ret.), Fighter Pilot, 2019 Mayor of Mission Viejo #ca45🍊",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Greg Raths CA45",
+    "District": 45,
+    "HashTag": "CA45",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Greg_Raths",
+    "Details": "@GregRaths: 0 tweets\r\n"
+  },
+  {
+    "Name": "Lou Correa",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 1,
+        "ScreenName": "@RepLouCorrea",
+        "Avatar": "http://pbs.twimg.com/profile_images/958720189897625601/c-SpjpEc_400x400.jpg",
+        "Bio": "Father. Public servant. Member of Congress. @HouseJudiciary @HomelandDems",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Lou Correa CA46",
+    "District": 46,
+    "HashTag": "CA46",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Lou_Correa",
+    "Details": "@RepLouCorrea: 0 tweets\r\n"
+  },
+  {
+    "Name": "James Waters",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [],
+    "NameHashTag": "James Waters CA46",
+    "District": 46,
+    "HashTag": "CA46",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/James_Waters",
+    "Details": "No Twitter"
+  },
+  {
+    "Name": "Harley Rouda",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@HarleyRouda",
+        "Avatar": "http://pbs.twimg.com/profile_images/977940546973921280/yPUWjXhF_400x400.jpg",
+        "Bio": "Personal account of Father, Husband, Businessman and U.S. Congressmember for California's 48th district in the 116th Congress.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepHarley",
+        "Avatar": "http://pbs.twimg.com/profile_images/1098285922066489344/v2m6jLsG_400x400.jpg",
+        "Bio": "Official account of the office of U.S. Congressmember Harley E. Rouda of California's 48th District.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Harley Rouda CA48",
+    "District": 48,
+    "HashTag": "CA48",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Harley_Rouda",
+    "Details": "@HarleyRouda: 0 tweets\r\n@RepHarley: 0 tweets\r\n"
+  },
+  {
+    "Name": "Michelle Steel",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@michellesteelca",
+        "Avatar": "http://pbs.twimg.com/profile_images/1225832860667514882/FPamctn4_400x400.jpg",
+        "Bio": "Candidate for U.S. Congress #CA48. A wife, mother, and County Supervisor fighting everyday to be a strong voice for OC families!",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Michelle Steel CA48",
+    "District": 48,
+    "HashTag": "CA48",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Michelle_Steel",
+    "Details": "@michellesteelca: 0 tweets\r\n"
+  },
+  {
+    "Name": "Mike Levin",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@MikeLevin",
+        "Avatar": "http://pbs.twimg.com/profile_images/839451733440909313/CDWODhHW_400x400.jpg",
+        "Bio": "Proud husband/dad, SoCal native, clean energy advocate, environmental attorney, Stanford/Duke alum.  U.S. Representative for CA-49. All tweets by me.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepMikeLevin",
+        "Avatar": "http://pbs.twimg.com/profile_images/1072137667670761472/tSqX70D8_400x400.jpg",
+        "Bio": "Proud husband/dad, SoCal native, clean energy advocate, environmental attorney, Stanford/Duke alum. U.S. Representative for CA-49. Official account.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Mike Levin CA49",
+    "District": 49,
+    "HashTag": "CA49",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Mike_Levin",
+    "Details": "@MikeLevin: 0 tweets\r\n@RepMikeLevin: 0 tweets\r\n"
+  },
+  {
+    "Name": "Brian Maryott",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@brianlmaryott",
+        "Avatar": "http://pbs.twimg.com/profile_images/1158445882502574082/i9_t_UK5_400x400.jpg",
+        "Bio": "Proud husband and father | Mayor of beautiful San Juan Capistrano | Certified Financial Planner | Candidate for Congress #CA49 🇺🇸",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Brian Maryott CA49",
+    "District": 49,
+    "HashTag": "CA49",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Brian_Maryott",
+    "Details": "@brianlmaryott: 0 tweets\r\n"
+  },
+  {
+    "Name": "Ammar Campa-Najjar",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@ACampaNajjar",
+        "Avatar": "http://pbs.twimg.com/profile_images/1239085206419599360/42liPUhi_400x400.jpg",
+        "Bio": "Running for Congress (CA-50). Small business owner. Former federal official (DOL). Son of a union mom, community college & SDSU alum.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Ammar Campa-Najjar CA50",
+    "District": 50,
+    "HashTag": "CA50",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Ammar_Campa-Najjar",
+    "Details": "@ACampaNajjar: 0 tweets\r\n"
+  },
+  {
+    "Name": "Darrell Issa",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@TeamIssa",
+        "Avatar": "http://pbs.twimg.com/profile_images/769204904917368832/brWV67Ok_400x400.jpg",
+        "Bio": "Father. Tech Entrepreneur. Candidate for California's 50th Congressional District",
+        "Tweets": 0
+      },
+      {
+        "Type": 2,
+        "ScreenName": "@DarrellIssa",
+        "Avatar": "http://pbs.twimg.com/profile_images/454338555456663552/phM7MZu5_400x400.jpeg",
+        "Bio": "Entrepreneur, Former CEO, Former Congressman from California.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Darrell Issa CA50",
+    "District": 50,
+    "HashTag": "CA50",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Darrell_Issa",
+    "Details": "@TeamIssa: 0 tweets\r\n@DarrellIssa: 0 tweets\r\n"
+  },
+  {
+    "Name": "Juan Vargas",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 1,
+        "ScreenName": "@RepJuanVargas",
+        "Avatar": "http://pbs.twimg.com/profile_images/978328637874343936/q54hVwQ8_400x400.jpg",
+        "Bio": "Official Twitter account of Rep. Vargas, representing southern San Diego County, all of Imperial County and California's entire U.S.-Mexico border. #CA51",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Juan Vargas CA51",
+    "District": 51,
+    "HashTag": "CA51",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Juan_Vargas",
+    "Details": "@RepJuanVargas: 0 tweets\r\n"
+  },
+  {
+    "Name": "Juan Hidalgo",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@HidalgoCongress",
+        "Avatar": "http://pbs.twimg.com/profile_images/1083089618822561792/2vIl4k19_400x400.jpg",
+        "Bio": "Sergeant Major Hidalgo USMC (Retired).- Republican Congressional Candidate for the 51st District.   ---Please see FB page for military disclosure note.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Juan Hidalgo CA51",
+    "District": 51,
+    "HashTag": "CA51",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Juan_Hidalgo_Jr.",
+    "Details": "@HidalgoCongress: 0 tweets\r\n"
+  },
+  {
+    "Name": "Scott Peters",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@ScottPetersCA52",
+        "Avatar": "http://pbs.twimg.com/profile_images/2188621596/SPtwlogo_wider_400x400.png",
+        "Bio": "Official account of the Scott Peters for Congress campaign. CA-52. All tweets are from campaign staff. Scott's personal tweets are @ScottPetersSD.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepScottPeters",
+        "Avatar": "http://pbs.twimg.com/profile_images/1150789408318091265/SurWDpFr_400x400.png",
+        "Bio": "Serving #CA52. I will support and defend the Constitution against all enemies, foreign and domestic, at least six feet away from you.",
+        "Tweets": 0
+      },
+      {
+        "Type": 2,
+        "ScreenName": "@ScottPetersSD",
+        "Avatar": "http://pbs.twimg.com/profile_images/1193888969160740867/OTxZPana_400x400.jpg",
+        "Bio": "San Diegan, father, husband, enviro lawyer, Congress, urbanist. #CA52 #SDinDC #YIMBY #GoDuke #Padres Work acct: @repscottpeters #justsaynotowinter",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Scott Peters CA52",
+    "District": 52,
+    "HashTag": "CA52",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Scott_Peters",
+    "Details": "@ScottPetersCA52: 0 tweets\r\n@RepScottPeters: 0 tweets\r\n@ScottPetersSD: 0 tweets\r\n"
+  },
+  {
+    "Name": "Jim DeBello",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@debellocongress",
+        "Avatar": "http://pbs.twimg.com/profile_images/1187835802543214595/ANVA6Peh_400x400.jpg",
+        "Bio": "Jim DeBello, Candidate for Congress",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Jim DeBello CA52",
+    "District": 52,
+    "HashTag": "CA52",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Jim_DeBello",
+    "Details": "@debellocongress: 0 tweets\r\n"
+  },
+  {
+    "Name": "Georgette Gomez",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@SDGeorgette",
+        "Avatar": "http://pbs.twimg.com/profile_images/1197705696541696000/yZB397vn_400x400.jpg",
+        "Bio": "SD City Council President. 1st Generation Mexican-American. LGBTQ. @SDSU grad. Always a Community Organizer fighting for justice. Democrat for Congress in #CA53",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Georgette Gomez CA53",
+    "District": 53,
+    "HashTag": "CA53",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Georgette_Gomez",
+    "Details": "@SDGeorgette: 0 tweets\r\n"
+  },
+  {
+    "Name": "Sara Jacobs",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@SaraJacobsCA",
+        "Avatar": "http://pbs.twimg.com/profile_images/1214778469927641089/4MwIPsOk_400x400.jpg",
+        "Bio": "Candidate for #CA53 | Chair, SD for Every Child & Scholar in Residence @KrocSchool; formerly @ProCoWorld, @hillaryclinton, @statedept, @unicefinnovate. she/her",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Sara Jacobs CA53",
+    "District": 53,
+    "HashTag": "CA53",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Sara_Jacobs",
+    "Details": "@SaraJacobsCA: 0 tweets\r\n"
   }
 ]

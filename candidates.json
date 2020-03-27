@@ -1,0 +1,49 @@
+[
+  {
+    "Name": "Salud Carbajal",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@carbajalsalud",
+        "Avatar": "http://pbs.twimg.com/profile_images/1161090049477357568/ZTQA8X12_400x400.jpg",
+        "Bio": "Husband, Father, Veteran, & UCSB alum. Running for Congress to fight for the Central Coast's middle class.",
+        "Tweets": 0
+      },
+      {
+        "Type": 1,
+        "ScreenName": "@RepCarbajal",
+        "Avatar": "http://pbs.twimg.com/profile_images/1101128802963505152/AfgDKkfc_400x400.png",
+        "Bio": "Father, husband and veteran proudly representing California’s 24th District. Working to protect the environment, improve our economy and support our veterans.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Salud Carbajal CA24",
+    "District": 24,
+    "HashTag": "CA24",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Salud_Carbajal",
+    "Details": "@carbajalsalud: 0 tweets\r\n@RepCarbajal: 0 tweets\r\n"
+  },
+  {
+    "Name": "Andy Caldwell",
+    "Party": "",
+    "Incumbent": false,
+    "Accounts": [
+      {
+        "Type": 0,
+        "ScreenName": "@CaldwellCA24",
+        "Avatar": "http://pbs.twimg.com/profile_images/1172947133957201920/Q4QQerQw_400x400.jpg",
+        "Bio": "Andy Caldwell has been the Voice of Reason on the Central Coast for 30 years.  He's running for Congress to restore opportunity, liberty, and security.",
+        "Tweets": 0
+      }
+    ],
+    "NameHashTag": "Andy Caldwell CA24",
+    "District": 24,
+    "HashTag": "CA24",
+    "TotalTweets": 0,
+    "BallotpediaUrl": "https://ballotpedia.org/Andy_Caldwell",
+    "Details": "@CaldwellCA24: 0 tweets\r\n"
+  }
+]
